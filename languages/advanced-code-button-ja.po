@@ -1,0 +1,950 @@
+# CodeColorer 0.9.9
+# Copyright (c) 2006 - 2011 Dmytro Shteflyuk
+# This file is distributed under the same license as the CodeColorer package.
+#
+# Dmytro Shteflyuk <kpumuk@kpumuk.info>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeColorer 0.9.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advanced-code-button\n"
+"POT-Creation-Date: 2012-09-06 09:42:27+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Kuroneko Square <kurosquare@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: advanced-code-button.php:109
+msgid "Options"
+msgstr "設定"
+
+#: advanced-code-button.php:114
+msgid "Highlighter Plugin"
+msgstr "ハイライトプラグイン"
+
+#: advanced-code-button.php:119
+msgid "Select your &quot;Highlighter Plugin&quot;."
+msgstr "ご利用中のコードハイライトプラグインを選択してください"
+
+#: advanced-code-button.php:126
+msgid "Save Options"
+msgstr "設定を保存"
+
+#: highlighter/codecolorer.php:21
+#: highlighter/none.php:21
+#: highlighter/syntaxhighlighter.php:21
+#: highlighter/wpsyntax.php:21
+msgid "General"
+msgstr "基本"
+
+#: highlighter/codecolorer.php:22
+#: highlighter/syntaxhighlighter.php:22
+#: highlighter/wpsyntax.php:22
+msgid "Style"
+msgstr "スタイル"
+
+#: highlighter/codecolorer.php:23
+msgid "Advance"
+msgstr "上級設定"
+
+# CodeColorerButton 0.1
+# Copyright (c) 2006 - 2011 Creatorish
+# This file is distributed under the same license as the CodeColorerButton package.
+#
+#: highlighter/codecolorer.php:30
+#: highlighter/syntaxhighlighter.php:29
+#: highlighter/wpsyntax.php:29
+msgid "Select Language"
+msgstr "ハイライト言語"
+
+#: highlighter/codecolorer.php:34
+#: highlighter/wpsyntax.php:33
+msgid "abap"
+msgstr ""
+
+#: highlighter/codecolorer.php:35
+#: highlighter/wpsyntax.php:34
+msgid "actionscript"
+msgstr ""
+
+#: highlighter/codecolorer.php:37
+#: highlighter/syntaxhighlighter.php:32
+#: highlighter/wpsyntax.php:36
+msgid "actionscript3"
+msgstr ""
+
+#: highlighter/codecolorer.php:39
+#: highlighter/wpsyntax.php:38
+msgid "ada"
+msgstr ""
+
+#: highlighter/codecolorer.php:40
+msgid "apache"
+msgstr ""
+
+#: highlighter/codecolorer.php:41
+msgid "applescript"
+msgstr ""
+
+#: highlighter/codecolorer.php:42
+#: highlighter/wpsyntax.php:39
+msgid "apt_sources"
+msgstr ""
+
+#: highlighter/codecolorer.php:43
+#: highlighter/wpsyntax.php:40
+msgid "asm"
+msgstr ""
+
+#: highlighter/codecolorer.php:44
+#: highlighter/wpsyntax.php:41
+msgid "asp"
+msgstr ""
+
+#: highlighter/codecolorer.php:45
+#: highlighter/wpsyntax.php:42
+msgid "autoit"
+msgstr ""
+
+#: highlighter/codecolorer.php:46
+#: highlighter/wpsyntax.php:43
+msgid "avisynth"
+msgstr ""
+
+#: highlighter/codecolorer.php:47
+#: highlighter/syntaxhighlighter.php:33
+#: highlighter/wpsyntax.php:44
+msgid "bash"
+msgstr ""
+
+#: highlighter/codecolorer.php:48
+msgid "basic4gl"
+msgstr ""
+
+#: highlighter/codecolorer.php:49
+#: highlighter/wpsyntax.php:45
+msgid "bf"
+msgstr ""
+
+#: highlighter/codecolorer.php:50
+#: highlighter/wpsyntax.php:47
+msgid "blitzbasic"
+msgstr ""
+
+#: highlighter/codecolorer.php:51
+#: highlighter/wpsyntax.php:48
+msgid "bnf"
+msgstr ""
+
+#: highlighter/codecolorer.php:52
+#: highlighter/wpsyntax.php:49
+msgid "boo"
+msgstr ""
+
+#: highlighter/codecolorer.php:54
+#: highlighter/wpsyntax.php:51
+msgid "c"
+msgstr ""
+
+#: highlighter/codecolorer.php:56
+#: highlighter/wpsyntax.php:53
+msgid "c_mac"
+msgstr ""
+
+#: highlighter/codecolorer.php:57
+#: highlighter/wpsyntax.php:54
+msgid "caddcl"
+msgstr ""
+
+#: highlighter/codecolorer.php:58
+#: highlighter/wpsyntax.php:55
+msgid "cadlisp"
+msgstr ""
+
+#: highlighter/codecolorer.php:59
+#: highlighter/wpsyntax.php:57
+msgid "cfdg"
+msgstr ""
+
+#: highlighter/codecolorer.php:60
+#: highlighter/wpsyntax.php:58
+msgid "cfm"
+msgstr ""
+
+#: highlighter/codecolorer.php:61
+#: highlighter/wpsyntax.php:56
+msgid "cil"
+msgstr ""
+
+#: highlighter/codecolorer.php:62
+#: highlighter/wpsyntax.php:60
+msgid "cobol"
+msgstr ""
+
+#: highlighter/codecolorer.php:63
+#: highlighter/wpsyntax.php:61
+msgid "cpp-qt"
+msgstr ""
+
+#: highlighter/codecolorer.php:64
+#: highlighter/syntaxhighlighter.php:36
+#: highlighter/wpsyntax.php:62
+msgid "cpp"
+msgstr ""
+
+#: highlighter/codecolorer.php:65
+#: highlighter/syntaxhighlighter.php:37
+#: highlighter/wpsyntax.php:63
+msgid "csharp"
+msgstr ""
+
+#: highlighter/codecolorer.php:67
+#: highlighter/syntaxhighlighter.php:38
+#: highlighter/wpsyntax.php:65
+msgid "css"
+msgstr ""
+
+#: highlighter/codecolorer.php:69
+#: highlighter/wpsyntax.php:67
+msgid "d"
+msgstr ""
+
+#: highlighter/codecolorer.php:70
+#: highlighter/syntaxhighlighter.php:39
+#: highlighter/wpsyntax.php:70
+msgid "delphi"
+msgstr ""
+
+#: highlighter/codecolorer.php:71
+#: highlighter/syntaxhighlighter.php:42
+#: highlighter/wpsyntax.php:72
+msgid "diff"
+msgstr ""
+
+#: highlighter/codecolorer.php:72
+#: highlighter/wpsyntax.php:73
+msgid "div"
+msgstr ""
+
+#: highlighter/codecolorer.php:73
+#: highlighter/wpsyntax.php:75
+msgid "dos"
+msgstr ""
+
+#: highlighter/codecolorer.php:74
+#: highlighter/wpsyntax.php:77
+msgid "dot"
+msgstr ""
+
+#: highlighter/codecolorer.php:75
+#: highlighter/wpsyntax.php:78
+msgid "eiffel"
+msgstr ""
+
+#: highlighter/codecolorer.php:76
+#: highlighter/wpsyntax.php:80
+msgid "email"
+msgstr ""
+
+#: highlighter/codecolorer.php:77
+#: highlighter/wpsyntax.php:84
+msgid "fortran"
+msgstr ""
+
+#: highlighter/codecolorer.php:78
+#: highlighter/wpsyntax.php:85
+msgid "freebasic"
+msgstr ""
+
+#: highlighter/codecolorer.php:79
+#: highlighter/wpsyntax.php:86
+msgid "genero"
+msgstr ""
+
+#: highlighter/codecolorer.php:80
+#: highlighter/wpsyntax.php:87
+msgid "gettext"
+msgstr ""
+
+#: highlighter/codecolorer.php:81
+#: highlighter/wpsyntax.php:88
+msgid "glsl"
+msgstr ""
+
+#: highlighter/codecolorer.php:82
+#: highlighter/wpsyntax.php:89
+msgid "gml"
+msgstr ""
+
+#: highlighter/codecolorer.php:83
+msgid "gnuplot"
+msgstr ""
+
+#: highlighter/codecolorer.php:84
+#: highlighter/syntaxhighlighter.php:43
+#: highlighter/wpsyntax.php:91
+msgid "groovy"
+msgstr ""
+
+#: highlighter/codecolorer.php:85
+#: highlighter/wpsyntax.php:92
+msgid "haskell"
+msgstr ""
+
+#: highlighter/codecolorer.php:86
+#: highlighter/wpsyntax.php:93
+msgid "hq9plus"
+msgstr ""
+
+#: highlighter/codecolorer.php:88
+#: highlighter/wpsyntax.php:95
+msgid "html4strict"
+msgstr ""
+
+#: highlighter/codecolorer.php:90
+#: highlighter/wpsyntax.php:97
+msgid "idl"
+msgstr ""
+
+#: highlighter/codecolorer.php:91
+#: highlighter/wpsyntax.php:98
+msgid "ini"
+msgstr ""
+
+#: highlighter/codecolorer.php:92
+#: highlighter/wpsyntax.php:99
+msgid "inno"
+msgstr ""
+
+#: highlighter/codecolorer.php:93
+#: highlighter/wpsyntax.php:100
+msgid "intercal"
+msgstr ""
+
+#: highlighter/codecolorer.php:94
+#: highlighter/wpsyntax.php:101
+msgid "io"
+msgstr ""
+
+#: highlighter/codecolorer.php:96
+#: highlighter/syntaxhighlighter.php:46
+#: highlighter/wpsyntax.php:103
+msgid "java"
+msgstr ""
+
+#: highlighter/codecolorer.php:98
+#: highlighter/wpsyntax.php:104
+msgid "java5"
+msgstr ""
+
+#: highlighter/codecolorer.php:100
+#: highlighter/syntaxhighlighter.php:45
+#: highlighter/wpsyntax.php:105
+msgid "javascript"
+msgstr ""
+
+#: highlighter/codecolorer.php:102
+#: highlighter/wpsyntax.php:107
+msgid "kixtart"
+msgstr ""
+
+#: highlighter/codecolorer.php:103
+#: highlighter/wpsyntax.php:108
+msgid "klonec"
+msgstr ""
+
+#: highlighter/codecolorer.php:104
+#: highlighter/wpsyntax.php:109
+msgid "klonecpp"
+msgstr ""
+
+#: highlighter/codecolorer.php:105
+#: highlighter/wpsyntax.php:110
+msgid "latex"
+msgstr ""
+
+#: highlighter/codecolorer.php:106
+#: highlighter/wpsyntax.php:111
+msgid "lisp"
+msgstr ""
+
+#: highlighter/codecolorer.php:107
+#: highlighter/wpsyntax.php:113
+msgid "lolcode"
+msgstr ""
+
+#: highlighter/codecolorer.php:108
+#: highlighter/wpsyntax.php:114
+msgid "lotusformulas"
+msgstr ""
+
+#: highlighter/codecolorer.php:109
+#: highlighter/wpsyntax.php:115
+msgid "lotusscript"
+msgstr ""
+
+#: highlighter/codecolorer.php:110
+#: highlighter/wpsyntax.php:116
+msgid "lscript"
+msgstr ""
+
+#: highlighter/codecolorer.php:111
+#: highlighter/wpsyntax.php:118
+msgid "lua"
+msgstr ""
+
+#: highlighter/codecolorer.php:112
+#: highlighter/wpsyntax.php:119
+msgid "m68k"
+msgstr ""
+
+#: highlighter/codecolorer.php:113
+#: highlighter/wpsyntax.php:120
+msgid "make"
+msgstr ""
+
+#: highlighter/codecolorer.php:114
+#: highlighter/syntaxhighlighter.php:48
+#: highlighter/wpsyntax.php:121
+msgid "matlab"
+msgstr ""
+
+#: highlighter/codecolorer.php:115
+#: highlighter/wpsyntax.php:122
+msgid "mirc"
+msgstr ""
+
+#: highlighter/codecolorer.php:116
+#: highlighter/wpsyntax.php:124
+msgid "mpasm"
+msgstr ""
+
+#: highlighter/codecolorer.php:117
+#: highlighter/wpsyntax.php:125
+msgid "mxml"
+msgstr ""
+
+#: highlighter/codecolorer.php:119
+#: highlighter/wpsyntax.php:126
+msgid "mysql"
+msgstr ""
+
+#: highlighter/codecolorer.php:121
+#: highlighter/wpsyntax.php:127
+msgid "nsis"
+msgstr ""
+
+#: highlighter/codecolorer.php:122
+#: highlighter/syntaxhighlighter.php:49
+#: highlighter/wpsyntax.php:130
+msgid "objc"
+msgstr ""
+
+#: highlighter/codecolorer.php:123
+#: highlighter/wpsyntax.php:132
+msgid "ocaml-brief"
+msgstr ""
+
+#: highlighter/codecolorer.php:124
+#: highlighter/wpsyntax.php:133
+msgid "ocaml"
+msgstr ""
+
+#: highlighter/codecolorer.php:125
+#: highlighter/wpsyntax.php:134
+msgid "oobas"
+msgstr ""
+
+#: highlighter/codecolorer.php:126
+#: highlighter/wpsyntax.php:135
+msgid "oracle11"
+msgstr ""
+
+#: highlighter/codecolorer.php:127
+#: highlighter/wpsyntax.php:136
+msgid "oracle8"
+msgstr ""
+
+#: highlighter/codecolorer.php:128
+#: highlighter/wpsyntax.php:137
+msgid "pascal"
+msgstr ""
+
+#: highlighter/codecolorer.php:129
+#: highlighter/wpsyntax.php:138
+msgid "per"
+msgstr ""
+
+#: highlighter/codecolorer.php:131
+#: highlighter/syntaxhighlighter.php:50
+#: highlighter/wpsyntax.php:142
+msgid "perl"
+msgstr ""
+
+#: highlighter/codecolorer.php:133
+#: highlighter/wpsyntax.php:144
+msgid "php-brief"
+msgstr ""
+
+#: highlighter/codecolorer.php:135
+#: highlighter/syntaxhighlighter.php:51
+#: highlighter/wpsyntax.php:146
+msgid "php"
+msgstr ""
+
+#: highlighter/codecolorer.php:137
+#: highlighter/wpsyntax.php:139
+msgid "pic16"
+msgstr ""
+
+#: highlighter/codecolorer.php:138
+#: highlighter/wpsyntax.php:140
+msgid "pixelbender"
+msgstr ""
+
+#: highlighter/codecolorer.php:139
+#: highlighter/wpsyntax.php:148
+msgid "plsql"
+msgstr ""
+
+#: highlighter/codecolorer.php:140
+#: highlighter/wpsyntax.php:149
+msgid "povray"
+msgstr ""
+
+#: highlighter/codecolorer.php:141
+#: highlighter/syntaxhighlighter.php:53
+#: highlighter/wpsyntax.php:150
+msgid "powershell"
+msgstr ""
+
+#: highlighter/codecolorer.php:142
+#: highlighter/wpsyntax.php:151
+msgid "progress"
+msgstr ""
+
+#: highlighter/codecolorer.php:143
+#: highlighter/wpsyntax.php:152
+msgid "prolog"
+msgstr ""
+
+#: highlighter/codecolorer.php:144
+#: highlighter/wpsyntax.php:154
+msgid "providex"
+msgstr ""
+
+#: highlighter/codecolorer.php:146
+#: highlighter/syntaxhighlighter.php:54
+#: highlighter/wpsyntax.php:156
+msgid "python"
+msgstr ""
+
+#: highlighter/codecolorer.php:148
+#: highlighter/wpsyntax.php:158
+msgid "qbasic"
+msgstr ""
+
+#: highlighter/codecolorer.php:150
+#: highlighter/wpsyntax.php:160
+msgid "rails"
+msgstr ""
+
+#: highlighter/codecolorer.php:152
+#: highlighter/wpsyntax.php:163
+msgid "reg"
+msgstr ""
+
+#: highlighter/codecolorer.php:153
+#: highlighter/wpsyntax.php:164
+msgid "robots"
+msgstr ""
+
+#: highlighter/codecolorer.php:154
+#: highlighter/syntaxhighlighter.php:56
+#: highlighter/wpsyntax.php:166
+msgid "ruby"
+msgstr ""
+
+#: highlighter/codecolorer.php:155
+#: highlighter/wpsyntax.php:168
+msgid "sas"
+msgstr ""
+
+#: highlighter/codecolorer.php:156
+#: highlighter/syntaxhighlighter.php:57
+#: highlighter/wpsyntax.php:169
+msgid "scala"
+msgstr ""
+
+#: highlighter/codecolorer.php:157
+#: highlighter/wpsyntax.php:170
+msgid "scheme"
+msgstr ""
+
+#: highlighter/codecolorer.php:158
+#: highlighter/wpsyntax.php:171
+msgid "scilab"
+msgstr ""
+
+#: highlighter/codecolorer.php:159
+#: highlighter/wpsyntax.php:172
+msgid "sdlbasic"
+msgstr ""
+
+#: highlighter/codecolorer.php:160
+#: highlighter/wpsyntax.php:173
+msgid "smalltalk"
+msgstr ""
+
+#: highlighter/codecolorer.php:162
+#: highlighter/wpsyntax.php:175
+msgid "smarty"
+msgstr ""
+
+#: highlighter/codecolorer.php:163
+#: highlighter/syntaxhighlighter.php:58
+#: highlighter/wpsyntax.php:176
+msgid "sql"
+msgstr ""
+
+#: highlighter/codecolorer.php:165
+#: highlighter/wpsyntax.php:178
+msgid "tcl"
+msgstr ""
+
+#: highlighter/codecolorer.php:167
+#: highlighter/wpsyntax.php:180
+msgid "teraterm"
+msgstr ""
+
+#: highlighter/codecolorer.php:168
+#: highlighter/syntaxhighlighter.php:52
+#: highlighter/wpsyntax.php:181
+msgid "text"
+msgstr ""
+
+#: highlighter/codecolorer.php:170
+#: highlighter/wpsyntax.php:183
+msgid "thinbasic"
+msgstr ""
+
+#: highlighter/codecolorer.php:171
+#: highlighter/wpsyntax.php:184
+msgid "tsql"
+msgstr ""
+
+#: highlighter/codecolorer.php:172
+#: highlighter/wpsyntax.php:185
+msgid "typoscript"
+msgstr ""
+
+#: highlighter/codecolorer.php:174
+#: highlighter/syntaxhighlighter.php:59
+#: highlighter/wpsyntax.php:187
+msgid "vb"
+msgstr ""
+
+#: highlighter/codecolorer.php:176
+#: highlighter/wpsyntax.php:189
+msgid "vbnet"
+msgstr ""
+
+#: highlighter/codecolorer.php:177
+#: highlighter/wpsyntax.php:190
+msgid "verilog"
+msgstr ""
+
+#: highlighter/codecolorer.php:178
+#: highlighter/wpsyntax.php:191
+msgid "vhdl"
+msgstr ""
+
+#: highlighter/codecolorer.php:180
+#: highlighter/wpsyntax.php:193
+msgid "vim"
+msgstr ""
+
+#: highlighter/codecolorer.php:182
+#: highlighter/wpsyntax.php:195
+msgid "visualfoxpro"
+msgstr ""
+
+#: highlighter/codecolorer.php:183
+#: highlighter/wpsyntax.php:196
+msgid "visualprolog"
+msgstr ""
+
+#: highlighter/codecolorer.php:184
+#: highlighter/wpsyntax.php:197
+msgid "whitespace"
+msgstr ""
+
+#: highlighter/codecolorer.php:185
+#: highlighter/wpsyntax.php:199
+msgid "winbatch"
+msgstr ""
+
+#: highlighter/codecolorer.php:187
+#: highlighter/syntaxhighlighter.php:60
+#: highlighter/wpsyntax.php:201
+msgid "xml"
+msgstr ""
+
+#: highlighter/codecolorer.php:189
+#: highlighter/wpsyntax.php:203
+msgid "xorg_conf"
+msgstr ""
+
+#: highlighter/codecolorer.php:190
+#: highlighter/wpsyntax.php:204
+msgid "xpp"
+msgstr ""
+
+#: highlighter/codecolorer.php:191
+msgid "yaml"
+msgstr ""
+
+#: highlighter/codecolorer.php:192
+#: highlighter/wpsyntax.php:205
+msgid "z80"
+msgstr ""
+
+#: highlighter/codecolorer.php:198
+msgid "Show Line Number"
+msgstr "行番号表示"
+
+#: highlighter/codecolorer.php:202
+#: highlighter/wpsyntax.php:215
+msgid "Escaped"
+msgstr "HTMLエスケープ"
+
+#: highlighter/codecolorer.php:206
+#: highlighter/none.php:28
+#: highlighter/syntaxhighlighter.php:73
+#: highlighter/wpsyntax.php:219
+msgid "Paste your source code."
+msgstr "ここにソースコードを貼り付け"
+
+#: highlighter/codecolorer.php:214
+msgid "Theme"
+msgstr "テーマ"
+
+#: highlighter/codecolorer.php:217
+msgid "According to the settings"
+msgstr "設定に従う"
+
+#: highlighter/codecolorer.php:230
+msgid "No Links"
+msgstr "自動リンクしない"
+
+#: highlighter/codecolorer.php:234
+msgid "Inline"
+msgstr "インライン"
+
+#: highlighter/codecolorer.php:238
+msgid "No Wrap"
+msgstr "自動改行しない"
+
+#: highlighter/codecolorer.php:242
+msgid "No Border"
+msgstr "ボーダーなし"
+
+#: highlighter/codecolorer.php:246
+msgid "Tab Size"
+msgstr "タブサイズ"
+
+#: highlighter/codecolorer.php:250
+msgid "Lines"
+msgstr "表示行数"
+
+#: highlighter/codecolorer.php:254
+msgid "Width"
+msgstr "横幅"
+
+#: highlighter/codecolorer.php:258
+msgid "Height"
+msgstr "高さ"
+
+#: highlighter/codecolorer.php:262
+#: highlighter/syntaxhighlighter.php:98
+msgid "First Line"
+msgstr "開始行番号"
+
+#: highlighter/codecolorer.php:266
+#: highlighter/syntaxhighlighter.php:102
+#: highlighter/wpsyntax.php:227
+msgid "Highlight"
+msgstr "ハイライト"
+
+#: highlighter/codecolorer.php:275
+msgid "Class"
+msgstr "クラス名"
+
+#: highlighter/codecolorer.php:279
+msgid "File"
+msgstr "ファイル"
+
+#: highlighter/codecolorer.php:283
+msgid "Strict"
+msgstr "Strictモード"
+
+#: highlighter/codecolorer.php:293
+#: highlighter/none.php:37
+#: highlighter/syntaxhighlighter.php:116
+#: highlighter/wpsyntax.php:242
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: highlighter/codecolorer.php:297
+#: highlighter/none.php:41
+#: highlighter/syntaxhighlighter.php:120
+#: highlighter/wpsyntax.php:246
+msgid "Insert"
+msgstr "挿入"
+
+#: highlighter/syntaxhighlighter.php:34
+msgid "clojure"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:35
+msgid "coldfusion"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:40
+#: highlighter/wpsyntax.php:82
+msgid "erlang"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:41
+msgid "fsharp"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:44
+msgid "html"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:47
+msgid "javafx"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:55
+msgid "r"
+msgstr ""
+
+#: highlighter/syntaxhighlighter.php:65
+msgid "Gutter"
+msgstr "行番号表示"
+
+#: highlighter/syntaxhighlighter.php:69
+msgid "HTML Script"
+msgstr "HTMLスクリプト表示"
+
+#: highlighter/syntaxhighlighter.php:81
+msgid "Auto Links"
+msgstr "自動リンクしない"
+
+#: highlighter/syntaxhighlighter.php:85
+msgid "Light"
+msgstr "軽量モード"
+
+#: highlighter/syntaxhighlighter.php:89
+msgid "Toolbar"
+msgstr "ツールバー"
+
+#: highlighter/syntaxhighlighter.php:93
+msgid "Wrap Lines"
+msgstr "自動折返し"
+
+#: highlighter/syntaxhighlighter.php:106
+msgid "Pad Line Numbers"
+msgstr "行番号のパディング"
+
+#: highlighter/wpsyntax.php:46
+msgid "bibtex"
+msgstr ""
+
+#: highlighter/wpsyntax.php:59
+msgid "cmake"
+msgstr ""
+
+#: highlighter/wpsyntax.php:68
+msgid "dcs"
+msgstr ""
+
+#: highlighter/wpsyntax.php:83
+msgid "fo"
+msgstr ""
+
+#: highlighter/wpsyntax.php:90
+msgid "bnuplot"
+msgstr ""
+
+#: highlighter/wpsyntax.php:112
+msgid "locobasic"
+msgstr ""
+
+#: highlighter/wpsyntax.php:117
+msgid "lsl2"
+msgstr ""
+
+#: highlighter/wpsyntax.php:123
+msgid "modula3"
+msgstr ""
+
+#: highlighter/wpsyntax.php:128
+msgid "oberon2"
+msgstr ""
+
+#: highlighter/wpsyntax.php:153
+msgid "properties"
+msgstr ""
+
+#: highlighter/wpsyntax.php:162
+msgid "rebol"
+msgstr ""
+
+#: highlighter/wpsyntax.php:198
+msgid "whois"
+msgstr ""
+
+#: highlighter/wpsyntax.php:211
+msgid "Line"
+msgstr "開始行"
+
+#: highlighter/wpsyntax.php:232
+msgid "Source"
+msgstr "ソース"
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Code Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://creatorish.com/lab/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Advanced Code Insert Button Plugin for TinyMCE."
+msgstr "TinyMCEにコード挿入ボタンを追加するプラグイン"
+
+#. Author of the plugin/theme
+msgid "yuu@creatorish"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://creatorish.com"
+msgstr ""
+
+#~ msgid ""
+#~ "CodeColorer Insert Button Plugin for TinyMCE. Required <a href=\"http://"
+#~ "kpumuk.info/projects/wordpress-plugins/codecolorer/\">CodeColorer Plugin</"
+#~ "a>."
+#~ msgstr ""
+#~ "TinyMCEにCodeColorer挿入ボタンを追加します。<a href=\"http://kpumuk.info/"
+#~ "projects/wordpress-plugins/codecolorer/\">CodeColorer プラグイン</a>が必要"
+#~ "です。"
